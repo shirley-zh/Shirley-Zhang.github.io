@@ -1,5 +1,4 @@
 # Shirley-Zhang.github.io
-# 个人简历--张莎
 # Perspnal Resume--SHA ZHANG 
 Date of birth:13/11/1992      Gender:female      Nationality:Chinese
 Mobile Phone:(+86)177-2028-7354         E-mail:zhangsha1206zs@163.com 
